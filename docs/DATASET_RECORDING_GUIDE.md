@@ -132,7 +132,7 @@ lero-record "Pick up the red block and place it in the bin"
 lero-record "Pick up the red block and place it in the bin" so101_pick_block 50
 ```
 
-See `HANDY_COMMANDS.md` for full `lero-record` usage.
+See `docs/HANDY_COMMANDS.md` for full `lero-record` usage.
 
 ### Full commands (if you need more control)
 
@@ -309,4 +309,4 @@ Datasets are stored locally at:
 
 ## Next Step
 
-See `TRAINING_ARCHITECTURE.md` for how to train a policy on your recorded dataset.
+See `docs/TRAINING_ARCHITECTURE.md` for how to train a policy on your recorded dataset.

@@ -75,6 +75,6 @@ Default ROS2 topics when using `realsense2_camera`:
 
 ## See Also
 
-- `HANDY_COMMANDS.md` — all common commands, aliases, camera commands
+- `docs/HANDY_COMMANDS.md` — all common commands, aliases, camera commands
 - Workspace root `CLAUDE.md` — build, test, lint commands
 - `../../LEROBOT_SO101_DEVELOPMENT.md` — full workflow guide
