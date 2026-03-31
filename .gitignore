@@ -1,0 +1,43 @@
+# ROS2 / Colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.eggs/
+dist/
+*.so
+
+# Conda / Virtual envs
+.env
+.venv
+env/
+
+# Datasets and model outputs
+outputs/
+*.parquet
+*.mp4
+*.bag
+
+# Calibration files (machine-specific, not portable between robots)
+~/.cache/huggingface/lerobot/calibration/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Conda installer
+Miniforge3-*.sh
